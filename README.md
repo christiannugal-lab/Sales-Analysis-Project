@@ -19,3 +19,6 @@ Exploratory data analysis and predictive insights on customer behaviour using Py
 
 ### Visuals
 ---
+
+#### Update
+Added initial project structure and preparing analysis
