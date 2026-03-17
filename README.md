@@ -14,7 +14,7 @@ Exploratory data analysis and predictive insights on customer behaviour using Py
 ### Key Insights
 ---
 
-###Recommendations
+### Recommendations
 ---
 
 ### Visuals
