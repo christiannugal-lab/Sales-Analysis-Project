@@ -22,21 +22,21 @@ The following assessment explores key business questions, such as:
 ### Process
 1. Adding columns for better business insight, such as:
     
-    **profit_margin** → Shows efficiency of sale
-    **revenue_per_unit** → Helps identify pricing patterns
-    **cost** → Analyse cost structure
-    **shipping_ratio** → Shows logistic efficiency
-    **order_month** → Helps answer trends
-    **order_quarter**→ Helps answer seasonality
-    **shipping_days**→ Used to evaluate logistics vs **order_priority**
-    **is_profitable**→ Useful in dashboard making
-    **discount_level** → Analyse the benefits of discounts
+	**profit_margin** → Shows efficiency of sale
+	**revenue_per_unit** → Helps identify pricing patterns
+	**cost** → Analyse cost structure
+	**shipping_ratio** → Shows logistic efficiency
+	**order_month** → Helps answer trends
+	**order_quarter**→ Helps answer seasonality
+	**shipping_days**→ Used to evaluate logistics vs **order_priority**
+	**is_profitable**→ Useful in dashboard making
+	**discount_level** → Analyse the benefits of discounts
     
 2. Create pivot tables:
-    a. Which segments are most profitable?
-    b. Do discounts increase or decrease profit?
-    c. Which regions underperform?
-    d. Are high-priority orders actually faster?
+	a. Which segments are most profitable?
+	b. Do discounts increase or decrease profit?
+	c. Which regions underperform?
+	d. Are high-priority orders actually faster?
 
 ### Key Insights
 - The consumer segment contributes to the highest total profit ($749K), due to its large sales volume. However, the Home Office demonstrates the strongest profitability efficiency, with the highest profit margin (5.27%), suggesting a greater return per sale.
