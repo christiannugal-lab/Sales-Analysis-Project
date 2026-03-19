@@ -19,8 +19,30 @@ The following assessment explores key business questions, such as:
 - Power BI
 - Python
 
+### Process
+1. Adding columns for better business insight, such as:
+    
+    **profit_margin** → Shows efficiency of sale
+    **revenue_per_unit** → Helps identify pricing patterns
+    **cost** → Analyse cost structure
+    **shipping_ratio** → Shows logistic efficiency
+    **order_month** → Helps answer trends
+    **order_quarter**→ Helps answer seasonality
+    **shipping_days**→ Used to evaluate logistics vs **order_priority**
+    **is_profitable**→ Useful in dashboard making
+    **discount_level** → Analyse the benefits of discounts
+    
+2. Create pivot tables:
+    a. Which segments are most profitable?
+    b. Do discounts increase or decrease profit?
+    c. Which regions underperform?
+    d. Are high-priority orders actually faster?
+
 ### Key Insights
----
+- The consumer segment contributes to the highest total profit ($749K), due to its large sales volume. However, the Home Office demonstrates the strongest profitability efficiency, with the highest profit margin (5.27%), suggesting a greater return per sale.
+- Higher discounts are associated with increased sales but damage profitability. High-end discount orders generated $1.93 million in revenue but resulted in a loss of $ 814,000 and a 61% profit margin, making aggressive discounting an unsustainable pricing strategy.
+- While several regions boast high sales, profitability significantly varies. Canada demonstrates the highest efficiency, achieving a 25% profit margin despite a low sales volume. On the contrary, regions such as EMEA, Africa and SEA underperform, exhibiting negative margins despite substantial sales, indicating structural profitability issues.
+- Although the logistics system successfully prioritises urgent orders, the cost of fulfilling critical orders may outweigh the financial benefit, indicating inefficiencies in cost management for high-priority deliveries.
 
 ### Recommendations
 ---
@@ -29,4 +51,4 @@ The following assessment explores key business questions, such as:
 ---
 
 #### Update
-Filled in 'business problem' and 'tools used' taken from kaggle
+Added process and basic key insights
