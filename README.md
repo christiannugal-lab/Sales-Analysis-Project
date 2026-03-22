@@ -59,7 +59,7 @@ The following assessment explores key business questions, such as:
 - Align priority shipping with profitability thresholds, not just urgency
 
 ## Visuals
-![](https://github.com/christiannugal-lab/Sales-Analysis-Project/blob/main/Sales%20Analysis%20Dashboard%20v2.pdf)
+[View the Dashboard (PDF)](https://github.com/christiannugal-lab/Sales-Analysis-Project/blob/main/Sales%20Analysis%20Dashboard%20v2.pdf)
 
 #### Update
 update powerbi dashbaord
