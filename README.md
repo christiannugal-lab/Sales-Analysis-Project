@@ -60,6 +60,7 @@ The following assessment explores key business questions, such as:
 
 ## Visuals
 [View the Dashboard (PDF)](https://github.com/christiannugal-lab/Sales-Analysis-Project/blob/main/Sales%20Analysis%20Dashboard%20v2.pdf)
+![](https://github.com/christiannugal-lab/Sales-Analysis-Project/blob/main/PowerBI%20Dashboard%20Image.png)
 
 #### Update
-update powerbi dashbaord
+update with dashboard image and link
